@@ -1,4 +1,10 @@
-### Hi there 👋
+▸ Hi, I'm @gianynx 🙃
+▸ I'm a Jr Full Stack Web Developer 💻
+▸ I’m currently learning HTML5, CSS, Bootstrap, JS, VUE, PHP, PhpMyAdmin, SQL, MySQL, Laravel & SASS 🔎
+
+My Skills (at the moment)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,php,mysql,laravel,sass,java,nodejs,figma&perline=4)](https://skillicons.dev)
+
 
 <!--
 **gianynx/gianynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
