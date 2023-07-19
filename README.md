@@ -3,7 +3,8 @@
 ▸ I’m currently learning HTML5, CSS, Bootstrap, JS, VUE, PHP, PhpMyAdmin, SQL, MySQL, Laravel & SASS 🔎 </br >
 </br >
 </br >
-My skills: </br >
+My skills:
+</br >
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,php,mysql,laravel,sass,java,nodejs,figma&perline=4)](https://skillicons.dev)
 
 
