@@ -2,9 +2,6 @@
 ▸ I'm a Jr Full Stack Web Developer 💻
 ▸ I’m currently learning HTML5, CSS, Bootstrap, JS, VUE, PHP, PhpMyAdmin, SQL, MySQL, Laravel & SASS 🔎
 
-<div>
-  My Skills (at the moment)
-</div>
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,php,mysql,laravel,sass,java,nodejs,figma&perline=4)](https://skillicons.dev)
 
 
