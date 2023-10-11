@@ -1,6 +1,6 @@
 ▸ Hi, I'm @gianynx 🙃 </br >
 ▸ I'm a Jr Full Stack Web Developer 💻 </br >
-▸ I’m currently learning HTML5, CSS, Bootstrap, JavaScript, VueJs, AJAX, Node.js, Vite, SASS, PHP, (R)DBMS, SQL, MySQL phpMyAdmin & Laravel 🔎 </br >
+▸ I’m currently learning HTML5, CSS, Bootstrap, JavaScript, VueJs, AJAX, Node.js, Vite, SASS, PHP, (R)DBMS, SQL, MySQL, phpMyAdmin & Laravel 🔎 </br >
 </br >
 </br >
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,php,mysql,laravel,sass,java,nodejs,figma&perline=4)](https://skillicons.dev)
