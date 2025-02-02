@@ -3,7 +3,7 @@
 ▸ I’m currently learning HTML5, CSS, Bootstrap, JavaScript, TypeScript, Vue.js, Nuxt.js, Node.js, Vite, SASS, PHP, SQL, MySQL, PostegreSQL, Laravel, JAVA, Spring Boot & Git   🔎 </br >
 </br >
 </br >
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,vue,nuxtjs,nodejs,vite,sass,php,mysql,postgres,laravel,java,spring,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,vue,nuxtjs,nodejs,vite,sass,php,mysql,postgres,laravel,java,spring&perline=4)](https://skillicons.dev)
 
 
 <!--
