@@ -1,6 +1,6 @@
 ▸ Hi, I'm @gianynx 🙃 </br >
 ▸ I'm a Jr Full Stack Web Developer 💻 </br >
-▸ I’m currently learning HTML5, CSS, Bootstrap, JavaScript, VueJs, Nuxt, AJAX, Node.js, Vite, SASS, PHP, SQL, MySQL, PostegreSQL, Laravel, JAVA & Spring Boot   🔎 </br >
+▸ I’m currently learning HTML5, CSS, Bootstrap, JavaScript, TypeScript, Vue.js, Nuxt.js, Node.js, Vite, SASS, PHP, SQL, MySQL, PostegreSQL, Laravel, JAVA, Spring Boot & Git   🔎 </br >
 </br >
 </br >
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,php,mysql,laravel,sass,java,nodejs,figma,java,spring,postgres,nuxtjs&perline=4)](https://skillicons.dev)
